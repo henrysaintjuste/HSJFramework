@@ -31,6 +31,7 @@
 		99AD0F2D2343E004005FB4F6 /* HSJFrameworkTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HSJFrameworkTests.swift; sourceTree = "<group>"; };
 		99AD0F2F2343E004005FB4F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		99AD0F392343E039005FB4F6 /* BlueViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueViewController.swift; sourceTree = "<group>"; };
+		99AD0F4E2343E4E4005FB4F6 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +56,7 @@
 		99AD0F152343E004005FB4F6 = {
 			isa = PBXGroup;
 			children = (
+				99AD0F4E2343E4E4005FB4F6 /* Package.swift */,
 				99AD0F212343E004005FB4F6 /* HSJFramework */,
 				99AD0F2C2343E004005FB4F6 /* HSJFrameworkTests */,
 				99AD0F202343E004005FB4F6 /* Products */,

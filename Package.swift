@@ -11,9 +11,9 @@ let package = Package(
     targets: [
         .target(
             name: "HSJFramework",
-            dependencies: []),
+            dependencies: [], path: "HSJFramework"),
         .testTarget(
             name: "HSJFrameworkTests",
-            dependencies: ["HSJFramework"]),
+            dependencies: ["HSJFramework"], path: "HSJFrameworkTests"),
     ]
 )
